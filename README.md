@@ -7,3 +7,4 @@ I used the starter project found [here](https://github.com/udacity/fend/tree/ref
 I checked [Stackoverflow](https://stackoverflow.com) and the FWD zoom webinar for some help.
 
 This project uses HTML, CSS, JavaScript and Node JS to create a web page that runs on a local server.
+You'll have to download Express, Body-Parser and CORS.
